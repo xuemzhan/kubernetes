@@ -1,2 +1,2 @@
-FROM metrics-server-amd64
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.0
 MAINTAINER xuemzhan
